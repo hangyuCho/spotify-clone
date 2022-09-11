@@ -9,6 +9,8 @@ function App() {
       <LeftMenu/>
       <MainContainer/>
       <RightMenu/>
+
+      <div className="background"></div>
     </div>);
 }
 
